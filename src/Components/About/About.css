@@ -21,9 +21,9 @@
 }
 
 .play-icon {
-    width: 10%; /* Adjusted to make the play icon larger */
+    width: 10%; /* Adjusted to make the play icon smaller */
     position: absolute;
-    padding-left: 230px; /* Adjusted for correct positioning */
+    padding-left: 180px; /* Adjusted for correct positioning */
     top: 50%;
     left: 10%;
     transform: translate(-50%, -50%);
