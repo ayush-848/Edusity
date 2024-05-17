@@ -60,6 +60,15 @@
         margin: 20px;
         order: 2;
     }
+    .play-icon{
+        width: 10%;
+        position: absolute;
+        padding-left: 394px;
+        top: 50%;
+        left: 10%;
+        transform: translate(-50%, -50%);
+        cursor: pointer;
+    }
     .about-right{
         flex-basis: 100%;
     }
