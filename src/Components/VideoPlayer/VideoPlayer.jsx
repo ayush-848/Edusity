@@ -3,7 +3,6 @@ import './VideoPlayer.css'
 import video from '../../assets/college-video.mp4'
 
 const VideoPlayer = ({Play, setPlay}) => {
-    
     const player = useRef(null);
 
     const closePlayer =(e)=>{
